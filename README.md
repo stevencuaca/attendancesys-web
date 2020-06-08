@@ -21,7 +21,7 @@ A local web server with database (example: XAMPP).
 #### 3. Import the database "attendance_system.sql" if you haven't done it
 #### 4. Change the .env file in to your laptop/pc configuration
 #### 5. Run with "php artisan serve" command
-#### 6. Login with email "superuser@gmail.com" and password "password"
+#### 6. Login with email "superuser@klpi.com" and password "password"
 #### 7. After, you seeing the Dashboard, you will see a message "Missing stograge symlink" like the picture below
 ![alt text](https://i.ibb.co/bmr7wBt/Annotation-2020-06-08-170247.png)
 #### 8. Click fix it
